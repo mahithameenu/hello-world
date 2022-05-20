@@ -13,6 +13,8 @@
   <input type="text" id="mname" name="mname" value="Doe"><br><br>
   <input type="submit" value="Submit">
 </form> 
+  <p>I will display A B C</p>
+<p>I will display &#65; &#66; &#67;</p>
 
 <p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
 
