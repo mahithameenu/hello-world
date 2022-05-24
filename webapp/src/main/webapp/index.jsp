@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h2>HTML Forms1234</h2>
+<h2>HTML Forms1234567890</h2>
 
 <form action="/action_page.php">
   <label for="fname">First name:</label><br>
@@ -15,6 +15,7 @@
 </form> 
   <p>I will display A B C</p>
 <p>I will display &#65; &#66; &#67;</p>
+  <p>1234567890</p>
 
 <p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
 
